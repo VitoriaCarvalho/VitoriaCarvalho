@@ -13,10 +13,12 @@ Since then, I have focused on improving my knowledge in these areas. I am availa
 
 ### My Stats :bar_chart:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaCarvalho&show_icons=true&layout=compact&theme=graywhite" />
+<p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VitoriaCarvalho&show_icons=true&layout=compact&theme=graywhite" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaCarvalho&layout=compact&theme=graywhite"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaCarvalho&layout=compact&theme=graywhite"/>
-
+  
 ### Languages and tools :hammer_and_wrench:
 
 <p>
