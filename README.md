@@ -80,7 +80,7 @@ Recently I wrote my first [Medium](https://vitoria-carvalho.medium.com/) article
 
 Other projects you can find here in my GitHub repositories:
 
-* [WebScrapingJuris](https://github.com/VitoriaCarvalho/WebScrapingJuris): uma aplicação web scraping, em python, para automatização do processo de consulta de leis.
+* [WebScrapingJuris](https://github.com/VitoriaCarvalho/WebScrapingJuris): a web scraping application, in python, for automating the process of consulting laws.
 * [TCC3-CapsNet](https://github.com/VitoriaCarvalho/TCC3-CapsNet): implementation of an approach for classification of retinal images into glaucomatous and normal using CapsNet architecture. Team project.
 * [CanvasMarking](https://github.com/VitoriaCarvalho/CanvasMarking): a simple application for manually segmenting images, using HTML 5 Canvas.
 * [ResumeAI](https://github.com/Panelinha-Inc/resume-ai-api): application, still under development, for text recognition in images and pdfs of resumes. Team project.
