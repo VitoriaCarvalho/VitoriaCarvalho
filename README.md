@@ -88,6 +88,7 @@ Other projects you can find here in my GitHub repositories:
 
 During the Scientific Initiation, I participated in the production of some papers:
 
+* [COVID-index: A texture-based approach to classifying lung lesions based on CT images](https://www.sciencedirect.com/science/article/abs/pii/S0031320321002703);
 * [A Capsule Network-based for identification of Glaucoma in retinal images](https://ieeexplore.ieee.org/document/9219708);
 * [Descritores de Textura Aplicados à Caracterização e Classificação de Lesões de Pele](https://xsinfo.picos.ufpi.br/media/sinfo2019_artigos.pdf);
 * [Técnicas de Extração de Atributos Aplicadas ao Processamento de Imagens](https://xsinfo.picos.ufpi.br/media/sinfo2019_minicursos.pdf).
