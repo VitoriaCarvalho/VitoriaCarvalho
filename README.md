@@ -1,11 +1,17 @@
 ### Hi there, I’m Vitória :)
 
-* :mortar_board: I'm in the last semester of my bachelor's degree in Information Systems at UFPI.
+* :mortar_board: I have a degree in Information Systems from UFPI.
 * :woman_technologist: My area of expertise is Computer Vision and Natural Language Processing.
 * :purple_heart: I love working in these areas, discovering techniques I didn't know, solving real problems with technology and being very happy with the resolution of a bug :laughing:.
 * :ok_woman: I really enjoy working in teams, because the exchange of knowledge makes us evolve much more.
 
-At the university, I participated in Scientific Initiation projects, where I contributed to the development of approaches that apply Computer Vision and Image Processing in the context of medical imaging. Outside the university, I was an intern at a lawtech, where I worked with Natural Language Processing to create solutions for optimization in the analysis of legal documents.
+---
+
+### Experiences :nerd_face:
+
+* I participated in Scientific Initiation projects, where I contributed to the development of approaches that apply Computer Vision and Image Processing in the context of medical imaging;
+* I was an intern at a lawtech, where I worked with Natural Language Processing to create solutions for optimization in the analysis of legal documents;
+* My most recent job was as head of Computer Vision, where I contributed to the development of image processing solutions, as well as in the planning and monitoring of the software team's tasks.
 
 Since then, I have focused on improving my knowledge in these areas. I am available for work, want to learn more and join a team :purple_heart::rocket:
 
@@ -72,7 +78,8 @@ Since then, I have focused on improving my knowledge in these areas. I am availa
 
 ### My portfolio :computer::memo:
 
-Recently I wrote my first [Medium](https://vitoria-carvalho.medium.com/) article about a project using OpenCV, FaceNet and MTCNN. I invite you to read it:
+
+Last year I wrote my first [Medium](https://vitoria-carvalho.medium.com/) article about a project using OpenCV, FaceNet and MTCNN. I invite you to read it:
 
 * [Detecção de Máscara em Python Usando OpenCV e Deep Learning - Parte 1/2](https://vitoria-carvalho.medium.com/detec%C3%A7%C3%A3o-de-m%C3%A1scara-em-python-usando-opencv-e-deep-learning-parte-1-2-92c66799934e);
 * [Detecção de Máscara em Python Usando OpenCV e Deep Learning - Parte 2/2](https://vitoria-carvalho.medium.com/detec%C3%A7%C3%A3o-de-m%C3%A1scara-em-python-usando-opencv-e-deep-learning-parte-2-2-ee65644bb9d5);
@@ -90,6 +97,7 @@ During the Scientific Initiation, I participated in the production of some paper
 
 * [COVID-index: A texture-based approach to classifying lung lesions based on CT images](https://www.sciencedirect.com/science/article/abs/pii/S0031320321002703);
 * [A Capsule Network-based for identification of Glaucoma in retinal images](https://ieeexplore.ieee.org/document/9219708);
+* [Detecção de Máscara em Python Usando OpenCV e Deep Learning](https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/76/322/578-1);
 * [Descritores de Textura Aplicados à Caracterização e Classificação de Lesões de Pele](https://xsinfo.picos.ufpi.br/media/sinfo2019_artigos.pdf);
 * [Técnicas de Extração de Atributos Aplicadas ao Processamento de Imagens](https://xsinfo.picos.ufpi.br/media/sinfo2019_minicursos.pdf).
 
